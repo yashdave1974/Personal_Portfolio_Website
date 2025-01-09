@@ -66,14 +66,4 @@ License
 
 This project is licensed under the MIT License.
 
-Contact
-
-For any inquiries or feedback, please reach out to me:
-
-Email: your.email@example.com
-
-LinkedIn: Your LinkedIn Profile
-
-GitHub: Your GitHub Profile
-
 Thank you for visiting my portfolio! I hope you find it informative and engaging.
